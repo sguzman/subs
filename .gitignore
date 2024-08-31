@@ -7,3 +7,4 @@ cookies.txt
 resources/
 *.db
 *.lock
+tmp
